@@ -38,11 +38,11 @@ The notebooks contain the following workflow:
 3. Logistic Regression Baseline
 4. Results analysis
 
-##Reproducability
+## Reproducability
 
 This repository contains the code required to reproduce the experiments presented in the thesis, including preprocessing, model training, evaluation, and result analysis
 
-##Author
+## Author
 
 Britt Burgering
 Bachelor Thesis - Cognitive Science & Artificial Intelligence
