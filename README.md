@@ -25,7 +25,8 @@ The signals were preprocessed and segmented into sliding windows before being us
 
 - Notebooks/ - Data preprocessing, model training and results analysis
 - Slurm/     - SLURM batch files used for the GPU4EDU infrastructure
-- Results/   - Final result files and figures
+- Final results/   - Final result files generated during the experiments
+- Final figures/ - Final figures used in the thesis
 
 ## Requirements
 Install the required packages: 
